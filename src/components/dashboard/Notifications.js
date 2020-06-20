@@ -4,6 +4,7 @@ const Notifications = () => {
   return (
     <div>
       <p>Notifications</p>
+      <span>test 3</span>
     </div>
   )
 }
