@@ -15,6 +15,7 @@ class Dashboard extends Component {
           <div className="col s12 m5 offset-m1">
             <Notifications />
             <span>test</span>
+            <span>test 1</span>
           </div>
         </div>
       </div>
